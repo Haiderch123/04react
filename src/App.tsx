@@ -21,6 +21,7 @@ function App() {
         <Content />
         <Reusable />
         <AccordionDemo />
+        
         <Footer />
         </div>
     </>
