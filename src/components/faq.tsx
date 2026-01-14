@@ -15,7 +15,7 @@ export function AccordionDemo() {
     >
       <AccordionItem value="item-1" className="border-none">
         <div className="text-red-600 font-bold text-xl flex items-center justify-center pb-10 ">
-         questions
+        Frequently Asked Questions
         </div>
       </AccordionItem>
 
