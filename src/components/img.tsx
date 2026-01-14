@@ -1,5 +1,5 @@
 
-import React, { useState } from "react";
+import  { useState } from "react";
 const imageBtn : Record<string, string> ={
     a:"/src/assets/img.jpg",
      b:  "/src/assets/img61.png",
