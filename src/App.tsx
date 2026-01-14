@@ -7,6 +7,7 @@ import Body from "./components/img";
 import Content from './components/content'
 import Icons from './components/icons'
 import { Reusable } from "./components/reusable";
+import Navbar from "./components/navbar";
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Reusable />
         <AccordionDemo />
         <Footer />
+        <Navbar />
         </div>
     </>
   );
