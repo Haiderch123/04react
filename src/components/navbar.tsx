@@ -1,16 +1,17 @@
 import React from 'react'
+import { MenubarDemo } from './menubar'
 
 const Navbar = () => {
   return (
-    <div className='w-full bg-amber-500 flex items-center justify-between ' >
+    <div className='w-full bg-amber-500 flex items-center justify-around ' >
       <div>
-       <p>hiader ali</p>
+        <p>haider ali</p>
       </div>
       <div>
-<p>umer</p>
+        <MenubarDemo />
       </div>
       <div>
-<p>hiader ali</p>
+        <p>Mujtaba</p>
       </div>
     </div>
   )
