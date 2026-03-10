@@ -35,7 +35,7 @@ export function Reusable() {
     <div>
       <Carousel className=" h-full overflow-hidden ">
         <CarouselContent>
-          {images.map((img, index) => (
+          {images.map((index) => (
             <CarouselItem key={index}>
               <div className="p-0">
                 <Card className="py-0">
